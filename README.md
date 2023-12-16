@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmadAkhtar32
-- 👀 I’m a Computer Science Student
-- 🌱 I’m currently learning Mern-Stack
-- 💞️ I Love to help others in coding
+- 👀 I’m a Computer Science Student.
+- 🌱 I’m currently learning Mern-Stack.
+- 💞️ I Love to help others in coding!
 - 📫 ahmadakhtar3226@gmail.com
 
 <!---
