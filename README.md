@@ -19,9 +19,9 @@
 
 ---
 
-### 👋 hey, I'm Ahmad
+### 👋 Hey, I'm Ahmad
 
-Software Engineer who likes turning ideas into working products — from AI trip planners to gaming platforms to classic Java systems. Currently deep in the Next.js / TypeScript ecosystem.
+Full-stack Software Engineer working across React, Next.js, and modern web stacks — currently leveling up in AI/ML and building products around it.
 
 ### 🛠️ what I work with
 
