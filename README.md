@@ -44,9 +44,10 @@ a mix of coursework, team builds, and things I got curious about.
 | project | what it does | stack |
 |---|---|---|
 | **<a href="https://github.com/AhmadAkhtar32/Itinera" target="_blank" rel="noopener noreferrer">Itinera</a>** ✈️ | Full-stack AI trip planner — AI itinerary generation, interactive Mapbox maps, and Google Places integration | Next.js, React, TypeScript, Convex, Clerk, Arcjet |
+| **<a href="https://github.com/AhmadAkhtar32/Gamex" target="_blank" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" target="_blank" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
 | <a href="https://github.com/AhmadAkhtar32/Java-Project-Quiz-Application-" target="_blank" rel="noopener noreferrer">Java Quiz Application</a> | Interactive quiz app with scoring and question flow | Java |
 | <a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-" target="_blank" rel="noopener noreferrer">Snake Game</a> | Classic Snake, built from scratch | Java |
-| **<a href="https://github.com/AhmadAkhtar32/Gamex" target="_blank" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" target="_blank" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
+
 
 ---
 
