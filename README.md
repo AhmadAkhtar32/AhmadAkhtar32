@@ -53,7 +53,7 @@ a mix of coursework, team builds, and things I got curious about.
 | project | what it does | stack |
 |---|---|---|
 | **<a href="https://github.com/AhmadAkhtar32/Itinera" rel="noopener noreferrer">Itinera</a>** ✈️ | Full-stack AI trip planner — AI itinerary generation, interactive Mapbox maps, and Google Places integration. <a href="https://itinera-aa.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, React, TypeScript, Convex, Clerk, Arcjet, Mapbox, OpenRouter, |
-| **AI Trip Planner** 🧭 | AI-powered trip planner — AI-based Trip Planner — plan smart travel routes, destinations, and itineraries using artificial intelligence. | React, Vite, Tailwind CSS, firebase, clerk |
+| **AI Trip Planner** 🧭 | AI-powered trip planner — plan smart travel routes, destinations, and itineraries using artificial intelligence. | React, Vite, Tailwind CSS, firebase, clerk |
 | **<a href="https://github.com/AhmadAkhtar32/Gamex" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
 | **Axora** 🏢 | Digital agency website. <a href="https://ahsan-abdullah.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, TypeScript |
 | <a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-" rel="noopener noreferrer">Snake Game</a> | Classic Snake, built from scratch | Java |
