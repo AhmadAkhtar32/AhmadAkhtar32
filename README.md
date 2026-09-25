@@ -1,22 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2b4d,100:6a3bd6&height=120&section=header" width="100%"/>
+<div align="center">
 
-<table>
-<tr>
-<td width="140">
-<img src="https://avatars.githubusercontent.com/u/147875473?v=4" width="120" style="border-radius:50%"/>
-</td>
-<td>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2b4d,100:6a3bd6&height=180&section=header&text=Ahmad%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-# Ahmad Akhtar
-### 🚀 Full-Stack AI Engineer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A5CF5&center=true&vCenter=true&width=500&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Always+shipping+something+new" />
 
-📫 **Contact:** reach me via [LinkedIn](https://www.linkedin.com/in/ahmad-akhtar-2065532aa/) or my [portfolio](https://ahmad-akhtar.vercel.app/)
+📫 <a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;·&nbsp; <a href="https://ahmad-akhtar.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A5CF5&center=false&vCenter=true&width=500&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Always+shipping+something+new" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
