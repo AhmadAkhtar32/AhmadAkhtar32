@@ -2,11 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2b4d,100:6a3bd6&height=180&section=header&text=Ahmad%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
-<img src="https://github.com/AhmadAkhtar32.png" width="140" height="140" style="border-radius:50%;border:3px solid #8A5CF5;" alt="Ahmad Akhtar"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A5CF5&center=true&vCenter=true&width=500&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Always+shipping+something+new" />
+<img src="https://wsrv.nl/?url=github.com/AhmadAkhtar32.png&w=300&h=300&fit=cover&mask=circle&maxage=7d" width="150" height="150" alt="Ahmad Akhtar"/>
 
-📫 <a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;·&nbsp; <a href="https://ahmad-akhtar.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A5CF5&center=true&vCenter=true&width=520&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Always+shipping+something+new" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A5CF5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
@@ -45,20 +52,21 @@ a mix of coursework, team builds, and things I got curious about.
 
 | project | what it does | stack |
 |---|---|---|
-| **<a href="https://github.com/AhmadAkhtar32/Itinera" target="_blank" rel="noopener noreferrer">Itinera</a>** ✈️ | Full-stack AI trip planner — AI itinerary generation, interactive Mapbox maps, and Google Places integration. <a href="https://itinera-aa.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Live</a> | Next.js, React, TypeScript, Convex, Clerk, Arcjet |
-| **<a href="https://github.com/AhmadAkhtar32/Gamex" target="_blank" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" target="_blank" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
-| **Axora** 🏢 | Digital agency website. <a href="https://ahsan-abdullah.vercel.app/" target="_blank" rel="noopener noreferrer">🔗 Live</a> | Next.js, TypeScript |
-| <a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-" target="_blank" rel="noopener noreferrer">Snake Game</a> | Classic Snake, built from scratch | Java |
+| **<a href="https://github.com/AhmadAkhtar32/Itinera" rel="noopener noreferrer">Itinera</a>** ✈️ | Full-stack AI trip planner — AI itinerary generation, interactive Mapbox maps, and Google Places integration. <a href="https://itinera-aa.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, React, TypeScript, Convex, Clerk, Arcjet |
+| **AI Trip Planner** 🧭 | AI-powered trip planner — REPLACE_WITH_DESCRIPTION. `ADD REPO/LIVE LINK` | Firebase |
+| **<a href="https://github.com/AhmadAkhtar32/Gamex" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
+| **Axora** 🏢 | Digital agency website. <a href="https://ahsan-abdullah.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, TypeScript |
+| <a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-" rel="noopener noreferrer">Snake Game</a> | Classic Snake, built from scratch | Java |
 
 ---
 
 ### 📌 find me
 
 <p>
-<a href="https://ahmad-akhtar.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-1e2327?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmad_rao_32/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/ahmad_akhtar32" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
+<a href="https://ahmad-akhtar.vercel.app/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-1e2327?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmad_rao_32/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.snapchat.com/add/ahmad_akhtar32" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
 </p>
 
 ---
