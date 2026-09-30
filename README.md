@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2b4d,100:6a3bd6&height=180&section=header&text=Ahmad%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:242424&height=200&section=header&text=Ahmad%20Akhtar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full-Stack%20AI%20Engineer&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -8,71 +8,269 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=8A5CF5&center=true&vCenter=true&width=520&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Always+shipping+something+new" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+AI-powered+full-stack+apps;Next.js+%2B+TypeScript+%2B+AI+APIs;Turning+ideas+into+working+products;Always+shipping+something+new" />
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A5CF5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ahmad-akhtar.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/AhmadAkhtar32">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AhmadAkhtar32&style=for-the-badge&color=111111&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-### 👋 Hey, I'm Ahmad
+## 👋 Hey, I'm Ahmad
 
-Full-stack Software Engineer working across React, Next.js, and modern web stacks — currently leveling up in AI/ML and building products around it.
+I'm a **Full-Stack Software Engineer** working across React, Next.js, and modern web stacks — currently leveling up in **AI/ML** and building products around it.
 
-### 🛠️ what I work with
+I enjoy taking an idea from **concept → architecture → development → deployment**, with a focus on building applications that are practical, scalable, and visually polished.
+
+```text
+💻 Full-Stack Development
+🤖 AI / ML & AI-powered Applications
+⚡ Modern React & Next.js Development
+🗄️ Databases & Backend Systems
+🚀 Deployment & Product Development
+```
+
+---
+
+## 🧠 What I Work With
+
+### 💻 Languages
 
 <p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+### 🌐 Frontend & Backend
+
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
+### 🗄️ Database & Deployment
+
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 projects
+## 🚀 Featured Projects
 
-a mix of coursework, team builds, and things I got curious about.
+> A mix of coursework, team builds, and things I got curious about.
 
-| project | what it does | stack |
-|---|---|---|
-| **<a href="https://github.com/AhmadAkhtar32/Itinera" rel="noopener noreferrer">Itinera</a>** ✈️ | Full-stack AI trip planner — AI itinerary generation, interactive Mapbox maps, and Google Places integration. <a href="https://itinera-aa.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, React, TypeScript, Convex, Clerk, Arcjet, Mapbox, OpenRouter, |
-| **AI Trip Planner** 🧭 | AI-powered trip planner — plan smart travel routes, destinations, and itineraries using artificial intelligence. | React, Vite, Tailwind CSS, firebase, clerk |
-| **<a href="https://github.com/AhmadAkhtar32/Gamex" rel="noopener noreferrer">GameX</a>** 🎮 | Full-stack gaming platform, live at <a href="https://gamex.pk" rel="noopener noreferrer">gamex.pk</a> | Next.js, TypeScript, Drizzle ORM, Neon Postgres |
-| **Axora** 🏢 | Digital agency website. <a href="https://ahsan-abdullah.vercel.app/" rel="noopener noreferrer">🔗 Live</a> | Next.js, TypeScript |
-| <a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-" rel="noopener noreferrer">Snake Game</a> | Classic Snake, built from scratch | Java |
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ Itinera
+
+**AI Trip Planner**
+
+Full-stack AI trip planner with AI itinerary generation, interactive Mapbox maps, and Google Places integration.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Convex` `Clerk` `Arcjet` `Mapbox` `OpenRouter`
+
+<br/>
+
+<a href="https://github.com/AhmadAkhtar32/Itinera">
+<img src="https://img.shields.io/badge/View%20Source-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://itinera-aa.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎮 GameX
+
+**Full-Stack Gaming Platform**
+
+A full-stack gaming platform built with a modern Next.js architecture and a PostgreSQL-backed data layer.
+
+**Stack**
+
+`Next.js` `TypeScript` `Drizzle ORM` `Neon Postgres`
+
+<br/>
+
+<a href="https://github.com/AhmadAkhtar32/Gamex">
+<img src="https://img.shields.io/badge/View%20Source-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://gamex.pk">
+<img src="https://img.shields.io/badge/Live%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧭 AI Trip Planner
+
+AI-powered trip planner designed to plan smart travel routes, destinations, and itineraries using artificial intelligence.
+
+**Stack**
+
+`React` `Vite` `Tailwind CSS` `Firebase` `Clerk`
+
+</td>
+
+<td width="50%">
+
+### 🏢 Axora
+
+Digital agency website built with a modern Next.js and TypeScript stack.
+
+**Stack**
+
+`Next.js` `TypeScript`
+
+<br/>
+
+<a href="https://ahsan-abdullah.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🐍 Snake Game
+
+Classic Snake game built from scratch using Java.
+
+<a href="https://github.com/AhmadAkhtar32/Java-Project-Snake-Game-">
+<img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📌 find me
+## ⚙️ Development Focus
 
-<p>
-<a href="https://ahmad-akhtar.vercel.app/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-1e2327?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmad_rao_32/" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/ahmad_akhtar32" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/></a>
-</p>
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖 AI / ML                                                │
+│   AI-powered applications • AI APIs • Intelligent systems  │
+│                                                             │
+│   🌐 Full-Stack                                              │
+│   React • Next.js • Node.js • TypeScript                    │
+│                                                             │
+│   🗄️ Backend & Data                                         │
+│   APIs • PostgreSQL • MySQL • Modern data layers           │
+│                                                             │
+│   🚀 Product Development                                    │
+│   Architecture • Deployment • Real-world applications      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAkhtar32&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadAkhtar32&show_icons=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAkhtar32&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAkhtar32&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AhmadAkhtar32/AhmadAkhtar32/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 📌 Find Me
+
+<div align="center">
+
+<a href="https://ahmad-akhtar.vercel.app/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ahmad_rao_32/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.snapchat.com/add/ahmad_akhtar32" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Snapchat-111111?style=for-the-badge&logo=snapchat&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAkhtar32&theme=tokyonight&hide_border=true" height="180"/>
+### ⚡ Build. Learn. Ship. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,50:111111,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
