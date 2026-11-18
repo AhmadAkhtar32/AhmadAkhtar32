@@ -1,173 +1,243 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,75:7C3AED,100:22D3EE&height=230&section=header&text=AHMAD%20AKHTAR&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPMENT%20%E2%80%A2%20APPLIED%20AI&descAlignY=57&descSize=17" width="100%" alt="Ahmad Akhtar — Full-Stack Development and Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,35:292524,70:B45309,100:FBBF24&height=250&section=header&text=AHMAD%20AKHTAR&fontSize=56&fontColor=FFFBEB&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descAlignY=56&descSize=18" width="100%" alt="Ahmad Akhtar | AI/ML Engineer and Full-Stack Developer" />
 
 <a href="https://ahmad-akhtar.vercel.app/">
-  <img src="https://github.com/AhmadAkhtar32.png?size=240" width="120" height="120" alt="Ahmad Akhtar" />
+<img src="https://github.com/AhmadAkhtar32.png?size=300" width="130" height="130" alt="Ahmad Akhtar" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1400&color=22D3EE&center=true&vCenter=true&width=650&height=55&lines=Building+web+applications+with+AI.;Next.js+%C2%B7+TypeScript+%C2%B7+Python;Turning+ideas+into+working+software." width="100%" alt="Building web applications with AI using Next.js, TypeScript, and Python." />
-
-**Full-Stack Developer · AI/ML Intern at D-Biz Solutions**
-
-Based in Pakistan · Building for the web
-
-<br/>
-
-<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" /></a>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-FBBF24?style=flat-square&logoColor=1C1917" alt="Artificial Intelligence" />
 &nbsp;
-<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="Connect on LinkedIn" /></a>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-292524?style=flat-square&logoColor=FBBF24" alt="Machine Learning" />
 &nbsp;
-<a href="https://github.com/AhmadAkhtar32?tab=repositories"><img src="https://img.shields.io/badge/Browse_My_Code-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Browse repositories" /></a>
+<img src="https://img.shields.io/badge/FULL_STACK_ENGINEERING-292524?style=flat-square&logoColor=FBBF24" alt="Full-Stack Engineering" />
 
 <br/><br/>
 
-*Useful interfaces. Connected systems. AI with a clear purpose.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1500&color=FBBF24&center=true&vCenter=true&width=760&height=60&lines=Building+AI+that+people+can+use.;Connecting+intelligence+with+software.;Python+%C2%B7+TypeScript+%C2%B7+Next.js;From+the+first+API+to+the+final+interface." width="100%" alt="Building AI that people can use. Connecting intelligence with software." />
+
+### AI at the core. Engineering all the way through.
+
+I build AI assistants, connected applications, and full-stack web experiences.
+
+<br/>
+
+<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-FBBF24?style=for-the-badge&logo=vercel&logoColor=1C1917" alt="Explore portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/Let's_Connect-292524?style=for-the-badge&logoColor=FBBF24" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/AhmadAkhtar32?tab=repositories"><img src="https://img.shields.io/badge/Explore_Code-292524?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Explore GitHub repositories" /></a>
+
+<br/><br/>
+
+**Pakistan** &nbsp; / &nbsp; **AI & Web Development** &nbsp; / &nbsp; **Open to Project Enquiries**
 
 </div>
 
 ---
 
-## Behind the code
+## ⚡ The engineer behind the code
 
-I'm **Ahmad Akhtar**, a Computer Science graduate from **COMSATS University Islamabad, Sahiwal Campus**, working at the intersection of full-stack development and applied AI.
+I'm **Ahmad Akhtar**, an **AI/ML Engineer and Full-Stack Developer** interested in how intelligent systems become useful software.
 
-I build applications with **React, Next.js, TypeScript, and Python**, connecting interfaces, APIs, databases, and AI services into usable products. Currently, I'm an **AI/ML intern at D-Biz Solutions**, expanding my experience with AI assistants and business software.
+My work brings together **Python, LLM integrations, APIs, databases, and modern web interfaces**. I enjoy connecting those pieces into applications that solve a clear problem—from planning a trip to helping users interact with business information.
 
-- **Building:** AI assistants, full-stack websites, and API integrations.
-- **Deepening:** Machine learning fundamentals and applied AI development.
-- **Interested in:** AI integration projects, web development, and meaningful collaboration.
+Currently, I'm an **AI/ML Intern at D-Biz Solutions**. I hold a **BS in Computer Science from COMSATS University Islamabad, Sahiwal Campus**.
+
+> **My engineering standard:** understand the problem, build the complete workflow, and check what happens when things go wrong.
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Applied AI
+
+Building AI assistants and integrating language models into application workflows.
+
+**Focus areas**
+
+LLM integration · Conversational interfaces · API-connected assistants
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Full-Stack Engineering
+
+Connecting responsive interfaces with backend services, authentication, and persistent data.
+
+**Focus areas**
+
+Next.js applications · Python APIs · Database-backed products
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected work
+## 🚀 Featured builds
 
-### ✈️ Itinera
-#### AI-powered travel planning, from conversation to itinerary.
+### 01 / Itinera
+### A trip starts with an idea. Itinera turns it into a plan.
 
-A trip-planning application that combines AI-generated itineraries with maps, location information, and saved trips.
+An AI-powered travel planner that brings conversational trip planning, itinerary generation, and location information into one application.
 
-- Conversational trip input and day-by-day itinerary generation.
-- Hotel information, budget breakdowns, and weather details.
-- Interactive maps and routes.
-- Authentication and saved trip management.
+| Experience | What it enables |
+| :--- | :--- |
+| **Conversational planning** | Gather travel preferences through an AI chat |
+| **Day-by-day itineraries** | Organize destinations and activities into a structured trip |
+| **Maps & routes** | Explore locations with interactive mapping |
+| **Travel context** | View hotel information, budgets, and weather |
+| **Saved trips** | Keep and manage plans through an authenticated account |
 
-**Stack:** `Next.js` `React` `TypeScript` `Convex` `Clerk` `Mapbox` `Arcjet`
+**ENGINEERED WITH**
 
-<a href="https://itinera-aa.vercel.app/"><img src="https://img.shields.io/badge/Explore_Itinera-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Itinera" /></a>
+`Next.js` `React` `TypeScript` `Convex` `Clerk` `Mapbox` `Arcjet`
+
+<br/>
+
+<a href="https://itinera-aa.vercel.app/"><img src="https://img.shields.io/badge/Launch_Itinera-FBBF24?style=for-the-badge&logo=vercel&logoColor=1C1917" alt="Launch Itinera" /></a>
 &nbsp;
-<a href="https://github.com/AhmadAkhtar32/Itinera"><img src="https://img.shields.io/badge/View_Source-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View Itinera source code" /></a>
+<a href="https://github.com/AhmadAkhtar32/Itinera"><img src="https://img.shields.io/badge/Explore_Source-292524?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Explore Itinera source" /></a>
 
 <br/><br/>
 
-### 🎮 GameX
-#### A storefront for gaming PCs, components, and accessories.
+---
 
-A computer and gaming store website with product discovery, custom PC builds, and an administrative interface.
+### 02 / GameX
+### From browsing components to building a rig.
 
-- Searchable product catalog with categories and filters.
-- Product pages with image galleries and related products.
-- Build Your Rig experience for selecting PC components.
-- Product and build management through an admin dashboard.
+A computer and gaming store website designed around product discovery, custom PC builds, and catalog management.
 
-**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `Drizzle ORM` `Neon Postgres`
+| Experience | What it enables |
+| :--- | :--- |
+| **Product discovery** | Browse products through search, categories, and filters |
+| **Detailed product pages** | Explore image galleries and related products |
+| **Build Your Rig** | Select components for a custom PC |
+| **Custom builds** | Explore configured gaming systems |
+| **Admin tools** | Manage products and builds through a dedicated interface |
 
-<a href="https://gamex.pk"><img src="https://img.shields.io/badge/Visit_GameX-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit GameX" /></a>
+**ENGINEERED WITH**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Drizzle ORM` `Neon Postgres`
+
+<br/>
+
+<a href="https://gamex.pk"><img src="https://img.shields.io/badge/Visit_GameX-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=1C1917" alt="Visit GameX" /></a>
 &nbsp;
-<a href="https://github.com/AhmadAkhtar32/Gamex"><img src="https://img.shields.io/badge/View_Source-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View GameX source code" /></a>
+<a href="https://github.com/AhmadAkhtar32/Gamex"><img src="https://img.shields.io/badge/Explore_Source-292524?style=for-the-badge&logo=github&logoColor=FBBF24" alt="Explore GameX source" /></a>
 
 <br/><br/>
 
 <details>
-<summary><strong>More projects ↗</strong></summary>
+<summary><strong>＋ More from my workbench</strong></summary>
 
-### AI Trip Planner
+<br/>
 
-A travel-planning application exploring AI-assisted destination and itinerary generation.
+### 🧭 AI Trip Planner
 
-**Stack:** `React` `Vite` `Tailwind CSS` `Firebase` `Clerk`
+A travel-planning project exploring AI-assisted destination and itinerary generation.
 
-### Axora
+`React` `Vite` `Tailwind CSS` `Firebase` `Clerk`
 
-A digital agency website built with Next.js and TypeScript.
+### 🏢 Axora
 
-**Stack:** `Next.js` `TypeScript`
+A digital agency website built with a modern frontend stack.
 
-[Visit project →](https://ahsan-abdullah.vercel.app/)
+`Next.js` `TypeScript`
+
+<br/>
+
+[Explore my repositories →](https://github.com/AhmadAkhtar32?tab=repositories)
 
 </details>
 
 ---
 
-## My toolkit
+## 🛠️ Engineering toolkit
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-**Web & APIs**
+### Languages I build with
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-FBBF24?style=for-the-badge&logo=python&logoColor=1C1917" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-FBBF24?style=for-the-badge&logo=typescript&logoColor=1C1917" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-FBBF24?style=for-the-badge&logo=javascript&logoColor=1C1917" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-FBBF24?style=for-the-badge&logo=openjdk&logoColor=1C1917" alt="Java" />
 </p>
 
-**Data & Deployment**
+### Interfaces & experiences
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Convex-161B22?style=for-the-badge&logoColor=white" alt="Convex" />
-  <img src="https://img.shields.io/badge/Drizzle-161B22?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Next.js-292524?style=for-the-badge&logo=nextdotjs&logoColor=FFFBEB" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-292524?style=for-the-badge&logo=react&logoColor=FBBF24" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-292524?style=for-the-badge&logo=tailwindcss&logoColor=FBBF24" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-292524?style=for-the-badge&logo=html5&logoColor=FBBF24" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS-292524?style=for-the-badge&logo=css&logoColor=FBBF24" alt="CSS" />
 </p>
 
-**Applied AI**
+### APIs & application data
 
-`LLM Integration` · `AI Assistants` · `Conversational Interfaces` · `API Tool Integration`
+<p>
+<img src="https://img.shields.io/badge/FastAPI-292524?style=for-the-badge&logo=fastapi&logoColor=FBBF24" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-292524?style=for-the-badge&logo=nodedotjs&logoColor=FBBF24" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-292524?style=for-the-badge&logo=postgresql&logoColor=FBBF24" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-292524?style=for-the-badge&logo=mysql&logoColor=FBBF24" alt="MySQL" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-292524?style=for-the-badge&logo=drizzle&logoColor=FBBF24" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/Convex-292524?style=for-the-badge" alt="Convex" />
+</p>
+
+### Tools & deployment
+
+<p>
+<img src="https://img.shields.io/badge/Git-292524?style=for-the-badge&logo=git&logoColor=FBBF24" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-292524?style=for-the-badge&logo=github&logoColor=FBBF24" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-292524?style=for-the-badge&logo=vercel&logoColor=FFFBEB" alt="Vercel" />
+<img src="https://img.shields.io/badge/Clerk-292524?style=for-the-badge&logo=clerk&logoColor=FBBF24" alt="Clerk" />
+</p>
+
+### Applied AI focus
+
+`LLM Integration` &nbsp; `AI Assistants` &nbsp; `Conversational Applications` &nbsp; `API Integration`
 
 ---
 
-## How I approach a build
+## 🎯 Where I'm growing
 
-1. **Understand the problem.** Identify the user, the workflow, and what success looks like.
-2. **Design the essentials.** Define the data model, API boundaries, and access rules.
-3. **Build a working flow.** Connect the interface to real application behavior early.
-4. **Test and deploy.** Check failure cases alongside the happy path.
-5. **Improve with evidence.** Use feedback and observed issues to guide the next change.
+Building AI products also means getting better at evaluating what they do.
+
+- **Machine learning:** strengthening my understanding of data preparation, training, and evaluation.
+- **AI reliability:** examining response quality, failure cases, and application behavior.
+- **Backend engineering:** improving API design, permissions, and data access.
+- **Product thinking:** choosing features based on the user's actual workflow.
 
 ---
+
+## 🤝 Let's build together
+
+Interested in an **AI assistant**, an **AI integration**, or a **full-stack web application**?
+
+I'm open to discussing projects where I can contribute across the interface, backend, and AI integration.
 
 <div align="center">
 
-### Have a project that needs web development or AI integration?
-
-I'm interested in building useful software with people who care about the result.
-
-**Let's discuss the problem, the scope, and what a working solution should do.**
-
 <br/>
 
-<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/Let's_Talk-7C3AED?style=for-the-badge&logoColor=white" alt="Contact Ahmad on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ahmad-akhtar-2065532aa/"><img src="https://img.shields.io/badge/Start_a_Conversation-FBBF24?style=for-the-badge&logoColor=1C1917" alt="Start a conversation on LinkedIn" /></a>
 &nbsp;
-<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/See_My_Work-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="See Ahmad's portfolio" /></a>
+<a href="https://ahmad-akhtar.vercel.app/"><img src="https://img.shields.io/badge/View_My_Portfolio-292524?style=for-the-badge&logo=vercel&logoColor=FBBF24" alt="View portfolio" /></a>
 
 <br/><br/>
 
-**Ahmad Akhtar**  
-Full-Stack Development · Applied AI
+**AHMAD AKHTAR**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,75:7C3AED,100:22D3EE&height=120&section=footer" width="100%" alt="" />
+AI/ML Engineer &nbsp; • &nbsp; Full-Stack Developer
+
+*Build with purpose. Improve with evidence.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A09,35:292524,70:B45309,100:FBBF24&height=130&section=footer" width="100%" alt="" />
 
 </div>
